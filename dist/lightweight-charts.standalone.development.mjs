@@ -11538,7 +11538,7 @@ const layoutOptionsDefaults = {
         separatorColor: '#E0E3EB',
         separatorHoverColor: 'rgba(178, 181, 189, 0.2)',
     },
-    attributionLogo: true,
+    attributionLogo: false,
     colorSpace: 'srgb',
     colorParsers: [],
 };
