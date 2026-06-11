@@ -11195,7 +11195,7 @@ function chartOptionsDefaults() {
     return {
         width: 0,
         height: 0,
-        autoSize: false,
+        autoSize: true,
         layout: layoutOptionsDefaults,
         crosshair: crosshairOptionsDefaults,
         grid: gridOptionsDefaults,
